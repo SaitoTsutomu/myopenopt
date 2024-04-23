@@ -299,7 +299,7 @@ description = "SciPy: Scientific Library for Python"
 name = "scipy"
 optional = false
 python-versions = ">=3.5"
-version = "1.8.0"
+version = "1.10.0"
 
 [package.dependencies]
 numpy = ">=1.13.3"
